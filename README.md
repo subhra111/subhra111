@@ -38,3 +38,6 @@ Here are some ideas to get you started:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=subhra111&theme=highcontrast&hide_border=false)
 ![](https://github-contributor-stats.vercel.app/api?username=subhra111&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=subhra111&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+### ✍️ Quote of the Day
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
