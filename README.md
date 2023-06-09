@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Subhra</h1>
 <h3 align="center">An aspiring Full-Stack developer from India.</h3>
 <img align="right" alt="coding" width="400" src="https://github.com/subhra111/subhra111/assets/57364464/b22d9749-d0d6-4de4-9ca8-cb29616fb407">
+<!-- <img align="right" alt="coding" width="400" src="ttps://cdn.dribbble.com/users/626327/screenshots/2618501/400.gif"> -->
 
 ## 💫 About Me:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subhra111&label=Profile%20views&color=0e75b6&style=flat" alt="subhra111" /> </p>
